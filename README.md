@@ -1,2 +1,2 @@
-# gonesignal
+# gOnesignal
 Go package for Onesignal
